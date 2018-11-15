@@ -1,0 +1,1 @@
+# gec(go error checker)
